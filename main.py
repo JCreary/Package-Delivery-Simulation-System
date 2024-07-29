@@ -1,7 +1,5 @@
 # Author: Jamal Creary
-# Student ID: 000993077
-# Title: C950 WGUPS Project
-# Submission 1: 07/01/2024
+
 
 
 import csv
